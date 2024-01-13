@@ -1,0 +1,13 @@
+{
+  "name": "libfluxus",
+  "version": "0.0.1",
+  "author": "Matthew Zito",
+  "repo": "exbotanical/libfluxus",
+  "license": "MIT",
+  "description": "",
+  "keywords": [],
+  "src": ["include/libfluxus.h", "src/store.c"],
+  "development": {
+    "thlorenz/tap.c": "0.0.1"
+  }
+}
