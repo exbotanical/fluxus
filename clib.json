@@ -9,5 +9,9 @@
   "src": ["include/libfluxus.h", "src/store.c"],
   "development": {
     "thlorenz/tap.c": "0.0.1"
+  },
+  "dependencies": {
+    "exbotanical/libhash": "*",
+    "exbotanical/libutil": "*"
   }
 }
